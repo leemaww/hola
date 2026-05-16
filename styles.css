@@ -51,7 +51,8 @@
 .bg {
     background-image: url(images/bg.png);
     background-size: cover;
-    background-repeat: repeat-y;
+    background-position:100%
+    background-repeat: repeat-x;
 }
 
 button {
