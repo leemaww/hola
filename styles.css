@@ -1,0 +1,77 @@
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 74px;
+    text-align: center;
+    color: rgb(169, 182, 255)
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.img_gal {
+    padding-right: 3px;
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-bottom: 3px;
+    border-radius: 24px;
+    width: 30%;
+    max-width: 288px;
+    columns:auto;
+}
+
+.p {
+
+    font-size: 24px;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-block: 64px;
+    text-align: justify;
+    text-size-adjust: auto;
+    font-family: monospace; 
+    background-color: black;
+    border-width: 3px;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgb(255, 131, 85);
+    color: rgb(255, 131, 85);
+}
+
+.p2 {
+    font-size: 24px;
+    padding-left: 64px;
+    padding-right: 64px;
+    text-align: justify;
+    text-size-adjust: auto;
+    font-family: monospace; 
+    color: rgb(255, 131, 85);
+}
+
+.bg {
+    background-image: url(images/bg.png);
+    background-size: cover;
+    background-repeat: repeat-y;
+}
+
+button {
+    display: block;
+    margin: auto;
+    border: solid;
+    border-color: black;
+    font-style: normal;
+}
+.button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    border-width: 3px;
+    border-radius: 24px;
+    background-color: rgb(71, 80, 255);
+    padding: 12px;
+    font-size: 32px;
+    width: 388px;
+    height: auto;
+    padding-bottom: 12px;
+}
