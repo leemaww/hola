@@ -50,8 +50,8 @@
 
 .bg {
     background-image: url(images/bg.png);
-    background-color: rgb(58, 34, 126);
     background-size: cover;
+    background-position: center;
     background-repeat: repeat-y;
 }
 
