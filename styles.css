@@ -50,8 +50,9 @@
 
 .bg {
     background-image: url(images/bg.png);
+    background-color: rgb(58, 34, 126);
     background-size: cover;
-    background-repeat: repeat-x;
+    background-repeat: repeat-y;
 }
 
 button {
